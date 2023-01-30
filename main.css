@@ -145,8 +145,8 @@
     color: #eece1a; }
   
     .me{
-        font-size: rem;
-        color: green;
+        font-size: 2rem;
+    color: #ff004f;
         padding-left: 10px;
         padding-top: 4px;
         font-weight: bold;
