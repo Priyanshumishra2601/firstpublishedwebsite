@@ -285,7 +285,7 @@ main#home h1 {
       justify-content: center;
     }
     form{
-      background: rgb(16, 95, 91);
+     background: skyblue;
       display: flex;
       flex-direction: column;
       padding: 2vw 4vw;
@@ -295,7 +295,7 @@ main#home h1 {
     }
 
     form h3{
-      color: rgb(211, 148, 255);
+      color: rgb(46, 46, 46);
       font-weight: 800;
       margin-bottom: 20px;
     }
@@ -305,7 +305,7 @@ main#home h1 {
       margin: 10px 0;
       padding: 20px;
       outline: none;
-      background: #4e0230;
+      
       font-size: 16px;
     }
 
