@@ -151,6 +151,9 @@
         padding-top: 4px;
         font-weight: bold;
     }
+.a1{
+      background: linear-gradient(45deg, rgb(243, 49, 49), transparent);
+    }
     
   main {
     padding: 4rem;
