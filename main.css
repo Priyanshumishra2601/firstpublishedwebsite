@@ -103,8 +103,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.5; }
     body#bg-img {
-      background: url(girl-4448689__480);
-      background: url(../img/default\ 2.jpg);
+      background: url(../img/default\ 2.jpg) center center/cover no-repeat;
       background-attachment: fixed;
       background-size: cover;
       
