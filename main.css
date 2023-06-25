@@ -104,7 +104,7 @@
     line-height: 1.5; }
     body#bg-img {
       background: url(girl-4448689__480);
-      background: rgba(68, 68, 68, 0.9), url(../img/default\ 2.jpg);
+      background: url(../img/default\ 2.jpg);
       background-attachment: fixed;
       background-size: cover;
       
